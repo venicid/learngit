@@ -10,7 +10,8 @@ Learn git
 
 命令小清单: https://gitee.com/liaoxuefeng/learn-java/raw/master/teach/git-cheatsheet.pdf
 
-### 我的learn笔记
+### 我的learn笔记  00_learn_note
+
 ProGit书籍(官方中文文档): Git2Pro.pdf
 
 命令小清单: git-cheatsheet.pdf
