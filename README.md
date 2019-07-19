@@ -12,6 +12,8 @@ Learn git
 
 ### 我的learn笔记
 ProGit书籍(官方中文文档): Git2Pro.pdf
+
 命令小清单: git-cheatsheet.pdf
+
 思维导图：GitV3.0.xmind
 
