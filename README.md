@@ -5,7 +5,9 @@ Learn git
 
 ### 参考博客
 廖雪峰: https://www.liaoxuefeng.com/wiki/896043488029600
+
 官方文档: https://git-scm.com/book/zh/v2
+
 命令小清单: https://gitee.com/liaoxuefeng/learn-java/raw/master/teach/git-cheatsheet.pdf
 
 ### 我的learn笔记
